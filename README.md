@@ -20,8 +20,7 @@ It uses **transfer learning** with EfficientNet-B0 and reaches **70.0% top-1 acc
 9. [How to Run This Project](#9-how-to-run-this-project)
 10. [Project Structure](#10-project-structure)
 11. [What I Learned](#11-what-i-learned)
-12. [Future Work](#12-future-work)
-13. [Credits](#13-credits)
+12. [Credits](#12-credits)
 
 ---
 
