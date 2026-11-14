@@ -242,7 +242,7 @@ Then open the local link shown in the terminal and upload a food photo.
 
 1. Create a Kaggle notebook and turn on a **GPU (T4)**.
 2. Add the **Indian Food Images Dataset** using "Add Input".
-3. Upload `notebook.ipynb` (or copy its cells) and run them in order from top to bottom.
+3. Upload `indian-food-classifier-model-training.ipynb` (or copy its cells) and run them in order from top to bottom.
 4. Update the `DATA_DIR` path in the notebook if your dataset path is different.
 
 ### Requirements
@@ -255,13 +255,13 @@ Then open the local link shown in the terminal and upload a food photo.
 
 ```
 indian-food-classifier/
-├── README.md               # this file
-├── notebook.ipynb          # full training and evaluation notebook
-├── app.py                  # Gradio demo app
-├── food_classifier.pt      # trained EfficientNet-B0 weights
-├── class_names.json        # list of the 80 class names
-├── requirements.txt        # Python packages
-└── images/                 # screenshots and plots
+├── README.md                                            # this file
+├── indian-food-classifier-model-training.ipynb          # full training and evaluation notebook
+├── app.py                                               # Gradio demo app
+├── food_classifier.pt                                   # trained EfficientNet-B0 weights
+├── class_names.json                                     # list of the 80 class names
+├── requirements.txt                                     # Python packages
+└── images/                                              # screenshots and plots
 ```
 
 ---
